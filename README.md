@@ -19,13 +19,7 @@
     <h3>
     <br>
     Open source Ai Assistant for taking meeting notes
-    </h3>
-    <p align="center">
-    Get latest <a href="https://www.zackriya.com/meetily-subscribe/"><b>Product updates</b></a> <br><br>
-    <a href="https://meetily.zackriya.com"><b>Website</b></a> •
-    <a href="https://in.linkedin.com/company/zackriya-solutions"><b>Authors</b></a>
-    •
-    <a href="https://discord.gg/crRymMQBFH"><b>Discord Channel</b></a>
+   
 </p>
     <p align="center">
     
