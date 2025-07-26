@@ -1,7 +1,7 @@
 <div align="center" style="border-bottom: none">
     <h1>
-        <img src="docs/Meetily-6.png" style="border-radius: 10px;" />
-        <br>
+<!--         <img src="docs/Meetily-6.png" style="border-radius: 10px;" /> -->
+        <br>MINUTEMATE<br>
         Your AI-Powered Meeting Assistant
     </h1>
     <br>
